@@ -1,0 +1,14 @@
+En esta clase hemos aprendido algunos conceptos básicos de HTML
+utilizando comandos básicos para la estructura de una página web.
+
+Adicional a ello se rescata el uso de imágenes tanto para acceder
+a imágenes alojadas en la web, como alojadas de manera local.
+
+Hemos aprendido a utilizar hipervínculos para referenciar páginas web.
+Usando el comando "href" y adicionando targert="_blanck" para abrirlo en
+una nueva ventana.
+Si se desea referenciar a través de una imagen u otro elemento en la sección
+entre el llamado de el método "<a href=...>aqui</a>" se puede colocar en 
+la sección del texto la imágen un elemento que deseas referenciar.
+
+YouTube permite referenciar videos a través de la herramienta compartir.
